@@ -1,0 +1,12 @@
+C:\Users\Edwin\Documents\GitHub\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.csprojAssemblyReference.cache
+C:\Users\Edwin\Documents\GitHub\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\GitHub\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\Edwin\Documents\GitHub\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.AssemblyInfo.cs
+C:\Users\Edwin\Documents\GitHub\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.exe
+C:\Users\Edwin\Documents\GitHub\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.deps.json
+C:\Users\Edwin\Documents\GitHub\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.runtimeconfig.json
+C:\Users\Edwin\Documents\GitHub\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.runtimeconfig.dev.json
+C:\Users\Edwin\Documents\GitHub\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Edwin\Documents\GitHub\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.pdb
+C:\Users\Edwin\Documents\GitHub\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Edwin\Documents\GitHub\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.pdb
